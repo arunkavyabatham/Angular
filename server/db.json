@@ -1,0 +1,95 @@
+{
+  "resto": [
+    {
+      "id": 1,
+      "name": "abc restaurant",
+      "address": "kulaesra",
+      "mobile": "8447956463",
+      "email": "abc@gmail.com"
+    },
+    {
+      "name": "xyz restaurant",
+      "address": "noida india",
+      "mobile": "9958089956",
+      "email": "xyz@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Ajju Resto",
+      "address": "Atta",
+      "mobile": "tgyhgjhgjhj",
+      "email": "ajju@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "sdfdf",
+      "address": "fgdgdfg",
+      "mobile": "hjhjhjhj",
+      "email": "dfdf",
+      "id": 4
+    },
+    {
+      "name": "gfgfg",
+      "address": "dfgdfg",
+      "mobile": "hjhjhjhj",
+      "email": "fgfg",
+      "id": 5
+    },
+    {
+      "name": "zXCzc",
+      "address": "aaaaaaaaaaaaaaaa",
+      "mobile": "xcxcx",
+      "email": "cxcx",
+      "id": 6
+    },
+    {
+      "name": "ytihjkjk",
+      "address": "jkjkj",
+      "mobile": "jkjk",
+      "email": "jkjk",
+      "id": 7
+    },
+    {
+      "name": "jkjkj",
+      "address": "kjh",
+      "mobile": "kjkj",
+      "email": "kjkj",
+      "id": 8
+    },
+    {
+      "name": "k;lk;ljh",
+      "address": "jhkjhk",
+      "mobile": "jlkjhk",
+      "email": "klkl",
+      "id": 9
+    },
+    {
+      "name": "ffghfh",
+      "address": "ghghg",
+      "mobile": "ghghg",
+      "email": "ghghg",
+      "id": 10
+    },
+    {
+      "name": "aa",
+      "address": "",
+      "mobile": "",
+      "email": "aa",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "name": "dgfgfgfh",
+      "pass": "hjhkjh",
+      "email": "ghghgj",
+      "id": 1
+    },
+    {
+      "name": "dgfgfgfh",
+      "pass": "hjhkjh",
+      "email": "ghghgj",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "resto": [
+    {
+      "id": 1,
+      "name": "abc restaurant",
+      "address": "kulaesra",
+      "mobile": "8447956463",
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "xyz restaurant",
+      "address": "noida",
+      "mobile": "9958089956",
+      "email": "xyz@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+i.fa{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+i.fa:first-child{
+  padding-left: 0px;
+}
+.fa-edit{
+  color: #5249e1;
+}
+.fa-trash-o{
+  color: #ff1212;
+}

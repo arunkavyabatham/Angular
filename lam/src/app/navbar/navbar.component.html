@@ -1,0 +1,20 @@
+<mat-toolbar color="primary" class="navbar">
+  <span>Test Navbar</span>
+  <div>
+    <span>Home</span>
+    <span>Contact us</span>
+    <span>About us</span>
+
+  </div>
+
+</mat-toolbar>
+<mat-sidenav-container>
+  <mat-sidenav #sidenav mode="side" [(opened)]="opened">Sidenav</mat-sidenav>
+  <mat-sidenav-content>this is content of side nav
+    <button (click)="opened=!opened">Toogle Opened</button>
+    <button (click)="sidenav.open()">open</button>
+    <button (click)="sidenav.close()">close</button>
+    <button (click)="sidenav.toggle()">toggle</button>
+  </mat-sidenav-content>
+
+</mat-sidenav-container>

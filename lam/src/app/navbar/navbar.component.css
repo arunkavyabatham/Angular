@@ -1,0 +1,17 @@
+.navbar{
+  justify-content: space-between;
+}
+.navbar div span{
+  margin: auto 10px;
+}
+mat-sidenav-container{
+  height: 100%;
+}
+mat-sidenav-content, mat-sidenav{
+  padding: 16px;
+}
+mat-sidenav{
+  background: #003;
+  width: 200px;
+  color: #fff;
+}

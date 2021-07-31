@@ -1,0 +1,14 @@
+<div class="container">
+  <h1>Login Restaurant Form</h1>
+<form class="forms" (ngSubmit)="logIn()">
+  <div class="form-group">
+      <label>Email</label>
+      <input type="text" class="form-control" placeholder="Enter Email" name="email" [(ngModel)]="email">
+  </div>
+  <div class="form-group">
+    <label>Password</label>
+    <input type="text" class="form-control" placeholder="Enter Password" name="pass" [(ngModel)]="password">
+</div>
+  <button type="submit" class="btn btn-primary">Login</button>
+</form>
+</div>

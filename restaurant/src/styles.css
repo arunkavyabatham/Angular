@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+.forms{
+    padding:50px;
+    margin:20px auto;
+    background:#f8f9fa;
+}
+.form-group{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h1{
+    text-align:center;
+}
