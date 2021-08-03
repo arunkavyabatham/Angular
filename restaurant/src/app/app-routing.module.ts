@@ -6,6 +6,7 @@ import { UpdateComponent } from './update/update.component';
 import { ListComponent } from './list/list.component';
 import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './register/register.component';
+import { HomeComponent } from './home/home.component';
 
 
 const routes: Routes = [
@@ -13,7 +14,8 @@ const routes: Routes = [
 {component:UpdateComponent, path:"update/:id"},
 {component:ListComponent, path:"list"},
 {component:LoginComponent, path:"login"},
-{component:RegisterComponent, path:"register"}
+{component:RegisterComponent, path:"register"},
+{component: HomeComponent, path:"home"}
 ]
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
